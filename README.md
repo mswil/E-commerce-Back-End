@@ -31,7 +31,6 @@ Make sure you have node.js and mySQL v8.0.25+ installed on your device. Then run
     - PUT /api/tags/:id
     - DELETE /api/tags/:id
 
-
 ## Demo
 ### Setup
 ![Setup walkthrough Gif](/E-Commerce-Setup.gif)
@@ -44,5 +43,9 @@ Make sure you have node.js and mySQL v8.0.25+ installed on your device. Then run
 ***
 ### Tag Endpoints
 ![Tag walkthrough Gif](/E-Commerce-tag.gif)
+***
+
+## Contributing
+Starter code downloaded from [https://github.com/coding-boot-camp/fantastic-umbrella](https://github.com/coding-boot-camp/fantastic-umbrella)
 
 
